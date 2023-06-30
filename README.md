@@ -8,7 +8,7 @@ This project is a prototype of a third-person platformer game built in Unity, ai
 ## Getting Started
 To explore this prototype and experience the third-person platformer gameplay, follow the steps below:
 
-1. Clone the repository from [GitHub](https://github.com/your-username/your-unity-project).
+1. Clone the repository from [GitHub](https://github.com/s-mohamed-dev/portfolio-unity-proto).
 2. Open the Unity editor.
 3. Click on "Open Project" and select the cloned project folder.
 4. Once the project is open, navigate to the "Scenes" folder and open the main game scene.
@@ -23,7 +23,13 @@ To explore this prototype and experience the third-person platformer gameplay, f
 ## Demo
 Below is a video showcasing the gameplay and visual style of the third-person platformer prototype:
 
-![Watch Demo Video](Demo/demo.mp4)
+![Watch Demo Video](https://raw.githubusercontent.com/s-mohamed-dev/portfolio-unity-proto/main/Demo/demo.mp4)
+
+<video src='https://raw.githubusercontent.com/s-mohamed-dev/portfolio-unity-proto/main/Demo/demo.mp4' width=180 />
+
+caption1
+:-:
+<video src='https://raw.githubusercontent.com/s-mohamed-dev/portfolio-unity-proto/main/Demo/demo.mp4' width=640 />
 
 ## Future Development
 This prototype serves as a foundation for a potential full-fledged third-person platformer game. Some potential areas for future development include:
